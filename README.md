@@ -27,7 +27,7 @@ This is a Flask-based REST API that performs face mask detection using a fine-tu
 
 ### Requirements
 
-- Python 3.7+
+- Python 3.9+
 - `torch`, `torchvision`
 - `flask`, `Pillow`
 
